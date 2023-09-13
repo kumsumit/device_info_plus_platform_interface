@@ -13,11 +13,12 @@ dependencies:
     git: https://github.com/kumsumit/plugin_platform_interface.git
 
 dev_dependencies:
-  flutter_lints: ^2.0.3
+  flutter_lints:
+    git: https://github.com/kumsumit/flutter_lints.git
   flutter_test:
     sdk: flutter
-  mockito: ^5.4.0
+  mockito: ^5.4.2
 
 environment:
-  sdk: ">=2.19.0 <4.0.0"
-  flutter: ">=3.7.0"
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
