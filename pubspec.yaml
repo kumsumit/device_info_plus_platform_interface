@@ -8,7 +8,7 @@ repository: https://github.com/fluttercommunity/plus_plugins/tree/main/packages/
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.10.0
+  meta: ^1.11.0
   plugin_platform_interface: 
     git: https://github.com/kumsumit/plugin_platform_interface.git
 
@@ -17,8 +17,8 @@ dev_dependencies:
     git: https://github.com/kumsumit/flutter_lints.git
   flutter_test:
     sdk: flutter
-  mockito: ^5.4.2
+  mockito: ^5.4.4
 
 environment:
-  sdk: ">=3.2.0 <4.0.0"
-  flutter: ">=3.16.0"
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.3"
